@@ -1,11 +1,11 @@
 # Loan-Data-Warehouse
 
-## DW assignment to create a Data Warehouse for a bank for their Loans Department
-
 ----
 We are following the Kimball Methodology.
 
-The following is the schema we will use. Please edit if you have some refinements.
+The following is the schema which was designed.
+
+![image](https://user-images.githubusercontent.com/75213715/126070146-9c04b913-5a21-43e6-b6cd-718c854f2d39.png)
 
 We wil start with the date dimension as it will surely be necessary, as it usually is in all Data Warehousing Solutions.
 
